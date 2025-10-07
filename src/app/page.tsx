@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -54,7 +54,7 @@ export default function Home() {
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 Independent Board Director with exceptional track record across Energy,
                 Technology, International Business, and Government sectors. Recognized
-                by business leaders as one of the Maple Leafs' outstanding business in North
+                by business leaders as one of the Maple Leafs&apos; outstanding business in North
                 America with a proven track record of exceptional value creation and
                 governance leadership across strategy, technology, international
                 business, and Government sectors.
@@ -188,8 +188,8 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="text-gray-600 text-sm">
-                    "Top Ranking Transforming Business" and "Accelerating Sharing the Future of
-                    Energy" published thought leadership in premier business publications.
+                    &quot;Top Ranking Transforming Business&quot; and &quot;Accelerating Sharing the Future of
+                    Energy&quot; published thought leadership in premier business publications.
                   </p>
                 </div>
               </div>
@@ -232,7 +232,7 @@ export default function Home() {
               <h3 className="text-xl font-bold text-gray-900 mb-4">Industry Recognition</h3>
               <p className="text-gray-600 mb-4">
                 Published thought leadership in premier business publications including
-                "Top Ranking Transforming Business" and "Accelerating Sharing the Future of Energy".
+                &quot;Top Ranking Transforming Business&quot; and &quot;Accelerating Sharing the Future of Energy&quot;.
               </p>
               <div className="space-y-2">
                 <div className="bg-blue-100 text-blue-800 text-xs font-bold px-2 py-1 rounded inline-block">
